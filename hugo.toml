@@ -1,0 +1,17 @@
+baseURL = ''
+languageCode = 'pt-br'
+title = 'ilogi.co'
+theme = 'etch'
+
+[params]
+  copyright = ""
+  dark = "auto"
+  highlight = true
+  
+   [[menu.main]]
+    identifier = "sobre"
+    name = "por Jorge Vaz Nande"
+    title = "sobre"
+    url = "/sobre/"
+    weight = 20
+	
